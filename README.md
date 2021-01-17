@@ -1,6 +1,5 @@
 # studentManagementSystem
 A Student management system with basic CRUD operation developed using Java Spring boot Framework
-
-![spring boot](https://4.bp.blogspot.com/-TevOgPVC2dE/WnILAnucRVI/AAAAAAAAGU4/Y0eg10SP5f4niLZAKex2EeRDvJkGfP7vgCPcBGAYYCw/s1600/spring-boot.png)
+![StudentManagement](https://user-images.githubusercontent.com/44924660/104830940-c3a4b200-58a9-11eb-80cf-cf41ee0d18a6.PNG)
 
 
